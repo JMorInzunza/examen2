@@ -269,10 +269,23 @@ body{
 		}
 	}
 
-	@media screen and (max-width: 400px){
+	@media screen and (max-width: 430px){
 		.registro{
-			padding: 10	px;
+			padding: 10px;
 		}
+		.plan{
+			height: 200px;
+		}
+
+		.titl2{
+			margin-top: 10%;
+		}
+
+		.descrips{
+			margin-top: 20%;
+		}
+
+
 	}
 
 	@media screen and (max-width: 381px){
